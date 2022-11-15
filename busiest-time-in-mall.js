@@ -1,5 +1,3 @@
-// busiest time in mall
-
 const input = [
   [1487799425, 14, 1], // 14
   [1487799425, 4, 0], // 10
